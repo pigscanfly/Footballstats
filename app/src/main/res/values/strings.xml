@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple football stats</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="Goal">Goal</string>
+    <string name="Shots_on_goal">Shots on goal</string>
+    <string name="Shots_off_goal">Shots off goal</string>
+    <string name="Blocked_shots">Blocked_shots</string>
+    <string name="Offsides">Offsides</string>
+    <string name="Free_kicks">Free kicks</string>
+    <string name="Corners">Corners</string>
+    <string name="Fouls">Fouls</string>
+    <string name="Reset">Reset</string>
+</resources>
